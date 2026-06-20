@@ -102,7 +102,7 @@
 /vendor_dlkm/lib/modules/pmsr.ko:
 /vendor_dlkm/lib/modules/met_gpu_api.ko: /vendor_dlkm/lib/modules/met.ko /vendor_dlkm/lib/modules/mtk_gpu_hal.ko
 /vendor_dlkm/lib/modules/scp.ko: /vendor_dlkm/lib/modules/mtk-afe-external.ko /vendor_dlkm/lib/modules/mtk_tinysys_ipi.ko /vendor_dlkm/lib/modules/mtk_rpmsg_mbox.ko /vendor_dlkm/lib/modules/mtk-mbox.ko
-/vendor_dlkm/lib/modules/mtk-lpm-plat-v1.ko: /vendor_dlkm/lib/modules/mtk-lpm-dbg-common-v1.ko /vendor_dlkm/lib/modules/mtk-lpm.ko
+/vendor_dlkm/lib/modules/mtk-lpm-plat-v1.ko: /vendor_dlkm/lib/modules/mtk-lpm.ko
 /vendor_dlkm/lib/modules/trace_mmstat.ko: /vendor_dlkm/lib/modules/mtk_gpu_hal.ko
 /vendor_dlkm/lib/modules/adaptive-ts.ko: /vendor_dlkm/lib/modules/opsMediator.ko
 /vendor_dlkm/lib/modules/scheduler.ko: /vendor_dlkm/lib/modules/cpufreq_sugov_ext.ko /vendor_dlkm/lib/modules/thermal_interface.ko /vendor_dlkm/lib/modules/mtk_gpufreq_wrapper.ko /vendor_dlkm/lib/modules/mtk_pbm.ko /vendor_dlkm/lib/modules/mtk_mdpm.ko /vendor_dlkm/lib/modules/mtk_dynamic_loading_throttling.ko /vendor_dlkm/lib/modules/mtk_low_battery_throttling.ko /vendor_dlkm/lib/modules/gpueb.ko /vendor_dlkm/lib/modules/mtk_tinysys_ipi.ko /vendor_dlkm/lib/modules/mtk_rpmsg_mbox.ko /vendor_dlkm/lib/modules/mtk-mbox.ko /vendor_dlkm/lib/modules/mtk-ssc.ko /vendor_dlkm/lib/modules/mtk_gpu_hal.ko
